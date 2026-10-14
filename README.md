@@ -1,16 +1,17 @@
-## Hi there 👋
+### Teo Villar
 
-<!--
-**Teovi13/Teovi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Information Systems Engineering student (UAI, Argentina), transitioning from full-stack development into Data Engineering — currently deep in SQL, data warehousing, and Python.
 
-Here are some ideas to get you started:
+**What I'm building:**
+- 🏗️ End-to-end Data Warehouse with Medallion architecture (SQL Server, Python ingestion layer)
+- 📊 Analytics layer on top of it — window functions, CTEs, reporting views
+- 📚 Working through dbt, Docker, and Airflow next
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+📫 [LinkedIn](https://linkedin.com/in/teo-villar)
